@@ -1,4 +1,4 @@
-# Stackプログラミング言語コミュニティ
+# Stackプログラミング言語 コミュニティ
 
 ようこそ Stackプログラミング言語コミュニティへ！ここでは、Stackプログラミング言語に関する開発、学習、交流を行っています。
 
@@ -10,14 +10,15 @@
 
 ## メンバーシップ
 
-コミュニティメンバーは誰でも歓迎です。参加するには  [GitHub Organization](https://github.com/Stack-Programing-Community) に参加してください。
+コミュニティメンバーは誰でも歓迎です。参加するには  [梶塚太智](mailto://kajizukataichi@outlook.jp) に連絡してください。
 
 ## プロジェクト
-
 ### Stackプログラミング言語
-- [Stack言語リポジトリ](https://github.com/Stack-Programing-Community/Stack-Programing-Language): Stackプログラミング言語の処理系インタプリタを開発します
+  - [リポジトリ](https://github.com/Stack-Programing-Community/Stack-Programing-Language): Stackプログラミング言語の処理系インタプリタを開発します
+  - [Issue Tracker](https://github.com/Stack-Programing-Community/Stack-Programing-Language/issues): バグ報告や新機能の提案などをします
 
-- [Issue Tracker](https://github.com/Stack-Programing-Community/Stack-Programing-Language/issues): バグ報告や新機能の提案などをします
+### 公式サイト
+  - [リポジトリ](https://github.com/Stack-Programing-Community/Stack-Programing-Community.github.io): Stackプログラミング言語の公式サイトを管理します
 
 ## コミュニケーション
 - [ディスカッション](https://github.com/orgs/Stack-Programing-Community/discussions): 自由にプロジェクトに関する議論が出来ます
