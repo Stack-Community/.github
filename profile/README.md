@@ -4,24 +4,34 @@
 
 ## コミュニティの目的
 
-- Stackプログラミング言語の開発と改善
-- メンバー同士の知識共有と学習サポート
-- 自由な雰囲気でのプロジェクトに関する議論
+- Stackプログラミング言語の処理系インタプリタの開発
+- メンバー同士の知識共有と学習サポート・普及活動
+- 自由な雰囲気でのプロジェクトに関する活発な議論
 
 ## メンバーシップ
 
-コミュニティメンバーは誰でも歓迎です。参加するには  [梶塚太智](mailto://kajizukataichi@outlook.jp) に連絡してください。
+コミュニティメンバーは誰でも歓迎です。参加するには [梶塚太智](mailto://kajizukataichi@outlook.jp) に連絡して招待を受けてください。
 
 ## プロジェクト
 ### Stackプログラミング言語
-  - [リポジトリ](https://github.com/Stack-Programing-Community/Stack-Programing-Language): Stackプログラミング言語の処理系インタプリタを開発します
-  - [Issue Tracker](https://github.com/Stack-Programing-Community/Stack-Programing-Language/issues): バグ報告や新機能の提案などをします
+一番メインのプロジェクトで、Stackプログラミング言語の処理系インタプリタを開発します
+  - https://github.com/Stack-Programing-Community/Stack-Programing-Language
 
-### 公式サイト
-  - [リポジトリ](https://github.com/Stack-Programing-Community/Stack-Programing-Community.github.io): Stackプログラミング言語の公式サイトを管理します
+### 標準規格
+Stackプログラミング言語の標準規格を保持します
+- https://github.com/Stack-Programing-Community/Standards
+
+### サンプルプログラム集
+Stackプログラミング言語の利便性をアピールする為のサンプルプログラムを開発します
+  - https://github.com/Stack-Programing-Community/Example-Programs
+
+### 公式ホームページ
+Stackプログラミング言語の玄関口の公式ホームページを管理します
+  - https://github.com/Stack-Programing-Community/Stack-Programing-Community.github.io 
 
 ## コミュニケーション
-- [ディスカッション](https://github.com/orgs/Stack-Programing-Community/discussions): 自由にプロジェクトに関する議論が出来ます
+自由にプロジェクトに関する議論が出来ます
+- https://github.com/orgs/Stack-Programing-Community/discussions
 
 ## ライセンス
 このコミュニティのプロジェクトはMITライセンスの下で誰でも自由に利用可能です。
