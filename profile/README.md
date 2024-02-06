@@ -15,7 +15,11 @@
 ## プロジェクト
 ### Stackプログラミング言語
 一番メインのプロジェクトで、Stackプログラミング言語の処理系インタプリタを開発します
-  - https://github.com/Stack-Programing-Community/Stack-Programing-Language
+#### ディストリビューション一覧
+  - デスクトップ版
+    - https://github.com/Stack-Programing-Community/Stack-Programing-Language
+  - Webアセンブリ版
+    - https://github.com/Stack-Programing-Community/stack-wasm
 
 ### 標準規格
 Stackプログラミング言語の標準規格を保持します
