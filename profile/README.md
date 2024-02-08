@@ -25,6 +25,10 @@
 Stackプログラミング言語の標準規格を保持します
 - https://github.com/Stack-Programing-Community/Standards
 
+### チュートリアル
+Stackプログラミング言語のチュートリアルのSvelteKitアプリを開発します
+- https://github.com/Stack-Programing-Community/stack-tutorial
+
 ### サンプルプログラム集
 Stackプログラミング言語の利便性をアピールする為のサンプルプログラムを開発します
   - https://github.com/Stack-Programing-Community/Example-Programs
