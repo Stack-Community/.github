@@ -1,16 +1,13 @@
-# Stack プログラミング言語　コミュニティ
-
-ようこそ Stackプログラミング言語コミュニティへ！ここでは、Stackプログラミング言語に関する開発、学習、交流を行っています。
-
-## コミュニティの目的
+Stackプログラミング言語コミュニティへようこそ！ここでは、Stackプログラミング言語に関する開発、学習、交流を行っています。
 
 - Stackプログラミング言語の処理系インタプリタや関連するプログラムの開発
 - メンバー同士の知識共有と学習サポート・普及活動
 - 自由な雰囲気でのプロジェクトに関する活発な議論
 
-## メンバーシップ
-
 コミュニティメンバーは誰でも歓迎です。参加するには [梶塚太智](mailto://kajizukataichi@outlook.jp) に連絡して招待を受けてください。
+
+ディスカッションでは、自由にプロジェクトに関する議論が出来ます。ぜひご活用ください！
+- https://github.com/orgs/Stack-Programing-Community/discussions
 
 ## プロジェクト
 このコミュニティのプロジェクトはMITライセンスの下で誰でも自由に利用可能です。
@@ -37,7 +34,3 @@ Stackプログラミング言語の利便性をアピールする為のサンプ
 ### 公式ホームページ
 Stackプログラミング言語の玄関口の公式ホームページを管理します
   - https://github.com/Stack-Programing-Community/Stack-Programing-Community.github.io 
-
-## コミュニケーション
-自由にプロジェクトに関する議論が出来ます。ぜひご活用ください！
-- https://github.com/orgs/Stack-Programing-Community/discussions
