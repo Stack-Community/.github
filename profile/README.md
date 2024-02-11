@@ -1,6 +1,7 @@
 ## About us
 
-Stackプログラミング言語コミュニティへようこそ！私たちはここで、Stackプログラミング言語に関する開発、学習、交流を行っています。
+Stackプログラミング言語コミュニティへようこそ！
+私たちはここで、Stackプログラミング言語に関する開発、学習、交流を行っています。
 
 - Stackプログラミング言語の処理系インタプリタなど関連するプロジェクトの開発
 - メンバー同士の知識共有と学習サポート・普及活動
@@ -13,13 +14,17 @@ Stackプログラミング言語コミュニティへようこそ！私たちは
 
 ## プロジェクト
 このコミュニティのプロジェクトはMITライセンスの下で誰でも自由に利用可能です。
-### Stackプログラミング言語
+### Stack プログラミング言語
 一番メインのプロジェクトで、Stackプログラミング言語の処理系インタプリタを開発します
 #### ディストリビューション一覧
   - デスクトップ版
     - https://github.com/Stack-Programing-Community/Stack-Programing-Language
   - Webアセンブリ版
     - https://github.com/Stack-Programing-Community/stack-wasm
+
+### ドキュメント
+Stackプログラミング言語の初心者でも学びやすくするため、ドキュメントを整備しています
+- https://github.com/Stack-Programing-Community/Documents
 
 ### 標準規格
 Stackプログラミング言語の標準規格を保持します
