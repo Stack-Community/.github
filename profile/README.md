@@ -17,7 +17,7 @@ Stackプログラミング言語コミュニティへようこそ！
 ### Stack プログラミング言語
 一番メインのプロジェクトで、Stackプログラミング言語の処理系インタプリタを開発します
 #### ディストリビューション一覧
-  - デスクトップ版
+  - コンソール版
     - https://github.com/Stack-Programing-Community/Stack-Programing-Language
   - Webアセンブリ版
     - https://github.com/Stack-Programing-Community/stack-wasm
