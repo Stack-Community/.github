@@ -6,7 +6,6 @@ Stackプログラミング言語コミュニティへようこそ！
 - メンバー同士の知識共有と学習サポート・初心者でも分かりやすい様にドキュメント作成
 - 自由な雰囲気でのプログラミングに関する活発な議論や交流
 
-コミュニティメンバーは誰でも歓迎です。参加するには [梶塚太智](mailto://kajizukataichi@outlook.jp) に連絡して招待を受けてください。
+コミュニティメンバーは誰でも歓迎です。参加するには [メール](mailto://kajizukataichi@outlook.jp) で連絡して招待を受けてください。
 
-ディスカッションでは、自由にプロジェクトに関する議論が出来ます。ぜひご活用ください！
-- https://github.com/orgs/Stack-Programing-Community/discussions
+[ディスカッション](https://github.com/orgs/Stack-Programing-Community/discussions)では、自由にプロジェクトに関する議論が出来ます。ぜひご活用ください！
