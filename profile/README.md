@@ -8,4 +8,5 @@ Stackプログラミング言語コミュニティへようこそ！
 
 コミュニティメンバーは誰でも歓迎です。参加するには [メール](mailto://kajizukataichi@outlook.jp) で連絡して招待を受けてください。
 
-[ディスカッション](https://github.com/orgs/Stack-Programing-Community/discussions)では、自由にプロジェクトに関する議論が出来ます。ぜひご活用ください！
+[ディスカッション](https://github.com/orgs/Stack-Programing-Community/discussions)では、自由にプロジェクトに関する議論が出来ます。
+何か質問があれば気軽にディスカッションを立ててください！
