@@ -1,4 +1,4 @@
-Welcome to the Stack programming language community!
+Welcome to the Stack programing community!
 
 We are here to develop, learn, and communicate about the Stack programming language.
 
