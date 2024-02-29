@@ -1,12 +1,12 @@
-Stackプログラミング言語コミュニティへようこそ！
+Welcome to the Stack programming language community!
 
-私たちはここで、Stackプログラミング言語に関する開発、学習、交流を行っています。
+We are here to develop, learn, and communicate about the Stack programming language.
 
-- Stackプログラミング言語の[処理系インタプリタ](https://github.com/Stack-Programing-Community/Stack-Programing-Language)や[チュートリアルアプリ](https://github.com/Stack-Programing-Community/stack-tutorial)など関連するプロジェクトの開発
-- 方言ごとに仕様が違って混乱しない様に[標準規格](https://github.com/Stack-Programing-Community/Standards)の制定・初心者でも分かりやすい様に[ドキュメント作成](https://github.com/Stack-Programing-Community/Documents)
-- メンバー同士の知識共有や自由な雰囲気でのプログラミングに関する活発な議論や交流
+- [Processing interpreter](https://github.com/Stack-Programing-Community/Stack-Programing-Language) and[Tutorial app](https://github.com/Stack-Programing-Community) of the Stack programming language Development of related projects such as /stack-tutorial)
+- Establishment of [Standards](https://github.com/Stack-Programing-Community/Standards) to avoid confusion due to different specifications for each dialect / [Creation of documentation](https://github.com/Stack-Programing-Community/Documents)
+- Knowledge sharing among members and lively discussions and exchanges about programming in a free atmosphere
 
-コミュニティメンバーは誰でも歓迎です。参加するには [メール](mailto://kajizukataichi@outlook.jp) で連絡して招待を受けてください。
+All community members are welcome. To participate, please contact us at [email](mailto://kajizukataichi@outlook.jp) to receive an invitation.
 
-[ディスカッション](https://github.com/orgs/Stack-Programing-Community/discussions)では、自由にプロジェクトに関する議論が出来ます。
-何か質問があれば気軽にディスカッションを立ててください！
+[Discussion](https://github.com/orgs/Stack-Programing-Community/discussions) allows you to freely discuss the project.
+If you have any questions, feel free to start a discussion!
