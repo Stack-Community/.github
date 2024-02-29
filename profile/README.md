@@ -2,7 +2,7 @@ Welcome to the Stack programming language community!
 
 We are here to develop, learn, and communicate about the Stack programming language.
 
-- [Processing interpreter](https://github.com/Stack-Programing-Community/Stack-Programing-Language) and[Tutorial app](https://github.com/Stack-Programing-Community) of the Stack programming language Development of related projects such as /stack-tutorial)
+- [Processing interpreter](https://github.com/Stack-Programing-Community/Stack-Programing-Language) and [Tutorial app](https://github.com/Stack-Programing-Community) of the Stack programming language Development of related projects such as /stack-tutorial)
 - Establishment of [Standards](https://github.com/Stack-Programing-Community/Standards) to avoid confusion due to different specifications for each dialect / [Creation of documentation](https://github.com/Stack-Programing-Community/Documents)
 - Knowledge sharing among members and lively discussions and exchanges about programming in a free atmosphere
 
