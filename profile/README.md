@@ -1,10 +1,10 @@
-Welcome to the Stack programing community!
+Welcome to the Stack programming community!
 
-We are here to develop, learn, and communicate about the Stack programing language.
+We are here to develop, learn, and communicate about the Stack programming language.
 
-- [Interpreter](https://github.com/Stack-Programing-Community/Stack-Programing-Language) and [Tutorial app](https://github.com/Stack-Programing-Community) of the Stack programing language Development of related projects.
+- [Interpreter](https://github.com/Stack-Programing-Community/Stack-Programing-Language) and [Tutorial app](https://github.com/Stack-Programing-Community) of the Stack programming language Development of related projects.
 - Establishment of [Standards](https://github.com/Stack-Programing-Community/Standards) to avoid confusion due to different specifications for each dialect / [Creation of documentation](https://github.com/Stack-Programing-Community/Documents)
-- Knowledge sharing among members and lively discussions and exchanges about programing in a free atmosphere
+- Knowledge sharing among members and lively discussions and exchanges about programming in a free atmosphere
 
 All community members are welcome. To participate, please contact us at [email](mailto://kajizukataichi@outlook.jp) to receive an invitation.
 
