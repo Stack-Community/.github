@@ -1,12 +1,19 @@
-Welcome to the Stack programming community!
+## 👋 Welcome to the Stack Programming Community!
 
-We are here to develop, learn, and communicate about the Stack programming language.
+Thanks for visit here. <br>
+We are active to the development, learning, and communication about the Stack programming language.
 
-- [Interpreter](https://github.com/Stack-Programing-Community/Stack-Programing-Language) and [Tutorial app](https://github.com/Stack-Programing-Community) of the Stack programming language Development of related projects.
-- Establishment of [Standards](https://github.com/Stack-Programing-Community/Standards) to avoid confusion due to different specifications for each dialect / [Creation of documentation](https://github.com/Stack-Programing-Community/Documents)
-- Knowledge sharing among members and lively discussions and exchanges about programming in a free atmosphere
+### What We Do:
 
-All community members are welcome. To participate, please contact us at [email](mailto://kajizukataichi@outlook.jp) to receive an invitation.
+1. **Development Project:** Check out our [interpreter](https://github.com/Stack-Programing-Community/Stack-Programing-Language) of the Stack programming language.
+   
+2. **Establishing Standards:** We're working on establishing [standards](https://github.com/Stack-Programing-Community/Standards) to ensure consistency across different dialects and specifications.
+   
+3. **Documentation:** Dive into our comprehensive [documentation](https://github.com/Stack-Programing-Community/Documents) designed to be beginner-friendly and easy to understand.
+   
+4. **Engaging Discussions:** Join our lively [discussions](https://github.com/orgs/Stack-Programing-Community/discussions) where members share knowledge and exchange ideas about Stack in a free and open atmosphere.
 
-[Discussion](https://github.com/orgs/Stack-Programing-Community/discussions) allows you to freely discuss the project.
-If you have any questions, feel free to start a discussion!
+### Join Us:
+
+We welcome all community members! To participate, simply reach out to us at [email](mailto:kajizukataichi@outlook.jp) to receive an invitation.<br>
+If you have any questions or ideas, feel free to start a discussion. Our friendly members are always ready to help!
