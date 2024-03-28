@@ -18,7 +18,8 @@ We are active to the development, learning, and communication about the Stack pr
    But, that's not completed! We need your help, would you like to help us write the documentation.
    
 7. **Engaging Discussions**<br>
-   We are usually communicate with member by the [discussions](https://github.com/orgs/Stack-Programing-Community/discussions) <br>where members share knowledge and exchange ideas about Stack in a freeddom atmosphere. <br>  Once in a while, We host the conference. it's best way to communicate with us!
+   We are usually communicate with member by the [Github discussions](https://github.com/orgs/Stack-Programing-Community/discussions)  and [Discord server](https://discord.gg/d3vcWPKadu).<br>
+   where members share knowledge and exchange ideas about Stack in a freedom atmosphere. <br>  Once in a while, We host the conference. it's best way to communicate with us!
 
 ### 👋 Join Us:
 
