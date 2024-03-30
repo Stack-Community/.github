@@ -14,7 +14,7 @@ We are active to the development, learning, and communication about the Stack pr
    Stack's distributions are very varietyful. You can use you liked distribution.  
    
 5. **Comprehensive Documentation**<br>
-   We also write comprehensive [documentation](https://github.com/Stack-Programing-Community/Documents) designed easy to understand<br>
+   We also write comprehensive [documentation](https://github.com/Stack-Programing-Community/Documents) designed easy to understand.<br>
    But, that's not completed! We need your help, would you like to help us write the documentation.
    
 7. **Engaging Discussions**<br>
