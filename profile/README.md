@@ -29,7 +29,8 @@ Stack's distributions are very varietyful. You can use you liked distribution.
 |-|-|
 |[stack-lang](https://github.com/stack-community/stack-lang)|Official implementation. Most powerful and specialize in shell-based functions|
 |[stack-wasm](https://github.com/stack-community/stack-wsam)|Implementation by Web assembly. It used in the online execution environment|
-|[stack-java](https://github.com/stack-community/stack-java)|Designed for run on the JVM. But, That's not perfectly implementation |
+|[stack-java](https://github.com/stack-community/stack-java)|Designed for run on the JVM. We usually using Rust, so it's uncommon to using Java|
+|[stack-server](https://github.com/stack-community/stack-server)|Using for server-side program. everyone can easy to build web system|
 
 ### 👋 Join Us
 
