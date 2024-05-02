@@ -36,6 +36,7 @@ Stack's distributions are very varietyful. You can use you liked distribution.
 |[StackWasm](https://github.com/stack-community/stack-wasm)|Implementation by Web assembly. It used in the online execution environment|
 |[NumStack](https://github.com/stack-community/stack-num)|For science technology mathematics calculations. It's useful for mathematician|
 |[JStack](https://github.com/stack-community/stack-java)|Designed for run on the Java VM. it means you can use Java's rich eco-system |
+|[StackUltimate](https://github.com/stack-community/stack-ultimate)|Includes all features of each distributions. It's very heavy, just for core-users|
 
 ### 👋 Join Us
 
