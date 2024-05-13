@@ -8,10 +8,7 @@ We are active to the develop, learning, and communication of the Stack programmi
 1. **Development Project**<br>
    We are working on develop [interpreters](#-distribution-list) of the Stack programming language.<br>
    That's the main and biggest project. We design and develop new function and release it.
-   
-3. **Establishing Standards**<br>
-   We established [standards](https://github.com/stack-community/standards) to ensure consistency each distributions.<br>
-   That's useful you don't have to confusing to grammar diferences.
+
    
 5. **Learning Environment**<br>
    We also write comprehensive [documentation](https://github.com/stack-community/documents) designed easy to understand.<br>
