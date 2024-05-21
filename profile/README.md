@@ -1,7 +1,8 @@
 ### Welcome to the Stack Programming Community!
 
 First of all, we want to thanks for visit here. <br>
-We are active to the develop, learning, and communication of the Stack programming language.
+We are active to the develop, project, and spread of the Stack programming language.
+It's still evloving until someday we stand top of the programming world.
 
 ### ✍ What We Do
 
