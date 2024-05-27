@@ -32,7 +32,7 @@ Stack's distributions are very varietyful. You can use you liked distribution.
 |[StackLang](https://github.com/stack-community/stack-lang)|Official implementation. Most powerful and specialize in shell-based functions|
 |[StackServer](https://github.com/stack-community/stack-server)|Using for server-side program. Everyone can easy to build web server system|
 |[StackWasm](https://github.com/stack-community/stack-wasm)|Implementation by Web assembly. It used in the online execution environment|
-|[StackGUI](https://github.com/stack-community/stack-wasm)|It can develop GUI application. Using web-based component as window layout|
+|[StackGUI](https://github.com/stack-community/stack-gui)|It can develop GUI application. Using web-based component as window layout|
 |[NumStack](https://github.com/stack-community/stack-num)|For science technology mathematics calculations. It's useful for mathematician|
 |[JStack](https://github.com/stack-community/stack-java)|Designed for run on the Java VM. it means you can use Java's rich eco-system |
 |[StackUltimate](https://github.com/stack-community/stack-ultimate)|Includes all features of each distributions. It's very heavy, just for core-users|
