@@ -29,7 +29,7 @@ Stack's distributions are very varietyful. You can use you liked distribution.
 
 |name|overview|
 |-|-|
-|[StackLang](https://github.com/stack-community/stack-lang)|Official implementation. Most powerful and specialize in shell-based functions|
+|[StackLang](https://github.com/stack-community/stack-lang)|First implementation. Specialize in shell-based functions for automatics|
 |[StackServer](https://github.com/stack-community/stack-server)|Using for server-side program. Everyone can easy to build web server system|
 |[StackWasm](https://github.com/stack-community/stack-wasm)|Implementation by Web assembly. It used in the online execution environment|
 |[StackGUI](https://github.com/stack-community/stack-gui)|It can develop GUI application. Using web-based component as window layout|
