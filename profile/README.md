@@ -39,5 +39,5 @@ Stack's distributions are very varietyful. You can use you liked distribution.
 
 ### 👋 Join Us
 
-We welcome all community members! To participate, simply reach out to us at [email](mailto:kajizukataichi@outlook.jp) to receive an invitation.<br>
+We welcome all community members! To participate, simply reach out to us at [email](mailto:stack_community@fastmail.com) to receive an invitation.<br>
 If you have any questions or ideas, feel free to start a [discussion](https://github.com/orgs/stack-community/discussions). Our friendly members are always ready to help!
